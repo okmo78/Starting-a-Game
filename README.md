@@ -1,3 +1,3 @@
 # A new Game
  Starting a Game 
- ITs Will be Completed Tonight
+ IT Will be Completed Tonight
